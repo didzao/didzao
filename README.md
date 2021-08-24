@@ -1,7 +1,7 @@
 
 <table><tr><td width="50%">
 
-  <img src="https://user-images.githubusercontent.com/51927518/130660128-f915c55b-02b6-48aa-b3b4-33b43b5c76df.png" align="center" height="" width="100%" />
+  <img src="https://user-images.githubusercontent.com/51927518/130660128-f915c55b-02b6-48aa-b3b4-33b43b5c76df.png" align="center" height="80%" width="100%" />
 
 </td><td valign="top" width="50%">
 
