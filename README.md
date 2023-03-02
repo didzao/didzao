@@ -29,13 +29,14 @@
   
   <br/>
   
-   ```js
+<!--    ```js
     <wip/>
   ```
   <div align="center">
      <img style="margin: 10px" alt="didzao-Python" height="50" src="https://user-images.githubusercontent.com/51927518/222448731-5f7e49e2-2a5a-41db-a5be-e64b5c630d0a.png">
   </div>
-  <br/>
+  
+  <br/> -->
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didzao&theme=buefy&layout=compact&langs_count=16" align="center" style="width: 100%" />
