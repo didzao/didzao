@@ -38,7 +38,7 @@
   <br/>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didzao&theme=radical&layout=compact&langs_count=16" align="center" style="width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didzao&theme=buefy&layout=compact&langs_count=16" align="center" style="width: 100%" />
 <!--     https://icons8.com.br/icon/121464/python -->
   </div>
   
@@ -49,7 +49,7 @@
     <stats/>
   ```
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=didzao&theme=radical&show_icons=true&include_all_commits=true&count_private=true" align="center" style="width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=didzao&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" align="center" style="width: 100%" />
   </div>
 
 
